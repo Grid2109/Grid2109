@@ -1,4 +1,4 @@
-Olá, eu sou Ingrid Lira😊💕
+Olá, eu sou Ingrid Lira👋😊💕
 
 🌱Estudo atualmente REACT
 
