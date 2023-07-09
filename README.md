@@ -1,4 +1,4 @@
-Eu sou Ingrid Lira😊💕
+Olá, eu sou Ingrid Lira😊💕
 
 Sejam bem-vindos ao meu perfil no github!
 
