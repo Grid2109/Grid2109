@@ -2,7 +2,7 @@ Olá, eu sou Ingrid Lira. Apaixonada por programação.👋😊💕
 
 Sejam bem-vindos ao meu perfil no Github onde compartilho meus projetos e aprendizados. 🚀
 
-🌱Estudo atualmente REACT.js na escola virtual de formação completa de programação <a href="https://rodolfomori.com/devclub/">DEVCLUB</a>
+🌱Estudo atualmente REACT.js na escola virtual de formação completa de programação <a href="https://rodolfomori.com/devclub/" target= "_blank">DEVCLUB</a>
 
 🎯 Foco: Desenvolvedora FrontEnd💻
 
