@@ -1,13 +1,13 @@
 Olá, eu sou Ingrid Lira👋😊💕
 
-🌱Estudo atualmente REACT na escola virtual de formação de programadores <https://rodolfomori.com/devclub/>
+🌱Estudo atualmente REACT.js na escola virtual de formação completa de programação [DevClub](https://rodolfomori.com/devclub/)
 
 🎯 Foco: Desenvolvedora FrontEnd💻
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IngridLira&show_icons=true&count_private=true&hide_border=true&title_color=FA8072&icon_color=FF0000&text_color=c9d1d9&bg_color=0d1117" alt="Ingrid Lira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridLira&layout=compact&hide_border=true&title_color=00bfbf&text_color=F08080&bg_color=0d1117" />
-</div>
+![IngridLira GitHub stats](https://github-readme-stats.vercel.app/api?username=ingridlira&theme=bear&show_icons=true)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ingridlira&theme=bear&show&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
  
 ### Tools:
 
