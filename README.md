@@ -1,8 +1,8 @@
 Olá, eu sou Ingrid Lira👋😊💕
 
-🌱Estudo atualmente REACT
+🌱Estudo atualmente REACT na escola virtual de formação de programadores <https://rodolfomori.com/devclub/>
 
-🎯 Focus: Desenvolvedora FrontEnd💻
+🎯 Foco: Desenvolvedora FrontEnd💻
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IngridLira&show_icons=true&count_private=true&hide_border=true&title_color=FA8072&icon_color=FF0000&text_color=c9d1d9&bg_color=0d1117" alt="Ingrid Lira github stats" /> 
