@@ -8,7 +8,7 @@ Sejam bem-vindos ao meu perfil no Github onde compartilho meus projetos e aprend
 
 ![IngridLira GitHub stats](https://github-readme-stats.vercel.app/api?username=ingridlira&theme=bear&show_icons=true)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ingridlira&theme=bear&show&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ingridlira&theme=bear&show&layout=compact)]
 
  
 ### Tools:
