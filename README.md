@@ -6,8 +6,11 @@ Sejam bem-vindos ao meu perfil no Github onde compartilho meus projetos e aprend
 
 🎯 Foco: Desenvolvedora FrontEnd💻
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grid2109&show_icons=true&theme=neon)
 
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grid2109&layout=donut)](https://github.com/grid2109/github-readme-stats)
+
+
 ### Tools:
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
