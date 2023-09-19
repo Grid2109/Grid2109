@@ -17,21 +17,27 @@ Sejam bem-vindos ao meu perfil no Github onde compartilho meus projetos e aprend
 <br />
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grid2109&show_icons=true&theme=neon)
+<div>
+  <a href="https://github.com/grid2109/github-readme-stats">
+    <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=grid2109&show_icons=true&theme=neon&include_all_commits" />
+  </a>
+  <a href="https://github.com/grid2109/github-readme-stats">
+  <img width=400 height=168 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=grid2109&layout=donut&langs_count=5&theme=transparent" />
+  </a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grid2109&layout=donut)](https://github.com/grid2109/github-readme-stats)
 
 
-### Tools:
+###  Technologies:
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
-### Tecnologys:
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<div style="display: inline_block">
+  <img align="center" alt="grid2109-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="grid2109-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="grid2109-Github" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+  <img align="center" alt="grid2109-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="grid2109-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
+</div> 
 
   
 ### Studying in this moment:
