@@ -2,7 +2,7 @@ Olá, eu sou Ingrid Lira. Apaixonada por programação.👋😊💕
 
 Sejam bem-vindos ao meu perfil no Github onde compartilho meus projetos e aprendizados. 🚀
 
-🌱Estudo atualmente na escola virtual de formação completa de programação <a href="https://rodolfomori.com/devclub/">DEVCLUB</a>
+🌱Estudei na escola virtual de formação completa de programação <a href="https://rodolfomori.com/devclub/">DEVCLUB</a>.
 
 🎯 Foco: Desenvolvedora FrontEnd💻
 
@@ -39,6 +39,6 @@ Sejam bem-vindos ao meu perfil no Github onde compartilho meus projetos e aprend
 </p>
 
 ### Studying in this moment:
-RESPONSIVIDADE
+Praticando tutoriais para consolidar o conhecimento de HTML, CSS e JS.
 
 
