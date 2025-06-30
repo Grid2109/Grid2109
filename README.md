@@ -10,7 +10,7 @@ Trabalhei em times que usam metodologias ágeis (Jira) e versionamento de códig
 
 
 🌱Estudei para desenvolvedora frontend na escola virtual de formação completa de programação 
-<a href="https://rodolfomori.com/devclub/" target="_blank" rel="noreferrer noopener">DEVCLUB</a> em julho de 2022.
+<a href="https://rodolfomori.com/devclub/" target="_blank" rel="noreferrer noopener">DevClub</a> em julho de 2022.
 
 🎯 Foco: Desenvolvedora fullstack💻
 
