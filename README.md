@@ -2,9 +2,17 @@ Olá, eu sou Ingrid Lira. Apaixonada por programação.👋😊💕
 
 Sejam bem-vindos ao meu perfil no Github onde compartilho meus projetos e aprendizados. 🚀
 
-🌱Estudei na escola virtual de formação completa de programação <a href="https://rodolfomori.com/devclub/">DEVCLUB</a>.
+Atuo como Desenvolvedora Frontend com 7 meses de experiência profissional, trabalhando com tecnologias como React, TypeScript, Tailwind CSS e Next.js. Ainda no início da minha jornada, tenho me dedicado a aprender na prática, construindo soluções que equilibram funcionalidade e experiência do usuário.
 
-🎯 Foco: Desenvolvedora FrontEnd💻
+Nos meus projetos recentes, participei da migração de React para Next.js (com foco em SEO), implementei um mapa interativo para visualização de eventos e desenvolvi páginas responsivas. Também colaborei em integrações frontend-backend e utilizei React Hook Form + Zod para validação de dados, sempre sob orientação da equipe.
+
+Trabalhei em times que usam metodologias ágeis (Jira) e versionamento de código (Bitbucket), onde pude entender a importância do trabalho colaborativo e da organização. Reconheço que ainda tenho muito a aprimorar, mas encaro cada desafio como oportunidade para evoluir — seja em performance, acessibilidade ou boas práticas de código.
+
+
+🌱Estudei para desenvolvedora frontend na escola virtual de formação completa de programação 
+<a href="https://rodolfomori.com/devclub/" target="_blank" rel="noreferrer noopener">DEVCLUB</a> em julho de 2022.
+
+🎯 Foco: Desenvolvedora fullstack💻
 
 ## **Tecnologias e Ferramentas:** 
 
@@ -38,7 +46,7 @@ Sejam bem-vindos ao meu perfil no Github onde compartilho meus projetos e aprend
   </a>
 </p>
 
-### Studying in this moment:
-Praticando tutoriais para consolidar o conhecimento de HTML, CSS e JS.
+### Estudando neste momento:
+🚀Atualmente, estudo para ser uma profissional completa que entenda tanto do front como do back de um sistema na comunidade <a href="https://www.fullstackclub.com.br/" target="_blank" rel="noreferrer noopener">Full Stack Club</a>.
 
 
