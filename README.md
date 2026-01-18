@@ -65,6 +65,7 @@ Versionamento: Git, Bitbucket
 
 
 <h3>🌱 Atualmente</h3>
+💪 Consolidando a base, estudando muito JS e conceitos do React
 
 💡 Construindo projetos reais compatíveis com o mercado
 
