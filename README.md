@@ -96,8 +96,8 @@ Valorizo:
 <h3> 🛠 Tecnologias e Ferramentas</h3>
 <h4>💻 Front-end:</h4>
 
-
-<div style="display: inline_block">
+<div style="display: flex">
+ <div style="display: inline_block">
   <img align="center" alt="grid2109-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="grid2109-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="grid2109-Github" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
@@ -107,7 +107,7 @@ Valorizo:
   <img align="center" alt="grid2109-Next" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
  <img align="center" alt="grid2109-Tailwind" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
 </div>
-<br>
+
 <div>
   <a href="https://github.com/grid2109/github-readme-stats">
     <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=grid2109&show_icons=true&theme=neon&include_all_commits" />
@@ -116,6 +116,8 @@ Valorizo:
   <img width=400 height=168 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=grid2109&layout=donut&langs_count=5&theme=transparent" />
   </a>
 </div>
+</div>
+
 
 <br>
 
