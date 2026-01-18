@@ -60,7 +60,7 @@ Versionamento: Git, Bitbucket
     <td><b>🎯 Próximos Passos</b></td>
     <td>Testes Automatizados • CI/CD • Design Patterns</td>
   </tr>
-</table>
+</table><br>
 
 
 
@@ -91,7 +91,7 @@ Valorizo:
 
 
 
-<h2> 🛠 Tecnologias e Ferramentas</h2>
+<h3> 🛠 Tecnologias e Ferramentas</h3>
 <h3>💻 Front-end:</h3>
 
 
