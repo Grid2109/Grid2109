@@ -51,17 +51,25 @@ const minhasSkills = {
 🌱 Atualmente
 
 📚 Aprofundando conhecimentos em Desenvolvimento Fullstack
+
 💡 Construindo projetos reais compatíveis com o mercado
+
 🎯 Focando em performance, acessibilidade e boas práticas
+
 🤝 Aberta a colaborações e novos desafios
 
 💭 Filosofia de Trabalho
+
 "Cada desafio é uma oportunidade de evolução. Reconheço que sempre há mais a aprender, e é exatamente isso que me motiva."
 
 Valorizo:
+
 🤝 Trabalho colaborativo e comunicação clara
+
 📖 Aprendizado contínuo e compartilhamento de conhecimento
+
 ✨ Qualidade de código e atenção aos detalhes
+
 🎯 Entrega de valor e foco no usuário final
 
 
