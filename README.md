@@ -3,7 +3,7 @@
 Desenvolvedora Full stack em formação | Foco em frontend | Transformando ideias em experiências web
  
 
-<h2>🚀 Sobre mim</h2><br>
+<h2>🚀 Sobre mim</h2>
 
 Sou desenvolvedora frontend responsável por criar interfaces intuitivas e experiências de usuário memoráveis. Com 7 meses de experiência profissional e estudando desenvolvimento web desde 2022, estou em constante evolução na construção de aplicações modernas e responsivas.
 Minha jornada começou com os fundamentos HTML, CSS e JavaScript evoluindo pro React e hoje trabalho com tecnologias como TypeScript, Next.js e Tailwind CSS. Acredito que cada linha de código é uma oportunidade de aprender e cada desafio é um degrau para o próximo nível.
@@ -64,7 +64,7 @@ Versionamento: Git, Bitbucket
 
 
 
-<h3🌱 Atualmente</h3>
+<h3>🌱 Atualmente</h3>
 
 💡 Construindo projetos reais compatíveis com o mercado
 
