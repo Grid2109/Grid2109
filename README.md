@@ -1,4 +1,6 @@
-<h1>&lt;h1&gt;Olá, eu sou Ingrid Lira, apaixonada por códigos, por interfaces interativas, por aprender sobre todo um sistema que serve inúmeros usuários de tecnologia.👋😊💕&lt;/h1&gt; </h1>
+<h1>Olá, eu sou Ingrid Lira</h1>
+
+Desenvolvedora Full stack em formação | Foco em frontend | apaixonada por códigos, por interfaces interativas, por aprender sobre todo um sistema que serve inúmeros usuários de tecnologia.👋😊💕
 
 <h2>💫Sobre</h2>
 Atuo como Desenvolvedora Frontend com 7 meses de experiência profissional, trabalhando com tecnologias como React, TypeScript, Tailwind CSS e Next.js. Ainda no início da minha jornada, tenho me dedicado a aprender na prática, construindo soluções que equilibram funcionalidade e experiência do usuário.
