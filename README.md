@@ -108,14 +108,12 @@ Valorizo:
  <img align="center" alt="grid2109-Tailwind" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
 </div>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/grid2109">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=grid2109&show_icons=true&theme=neon&include_all_commits=true" />
+<div>
+  <a href="https://github.com/grid2109/github-readme-stats">
+    <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=grid2109&show_icons=true&theme=neon&include_all_commits" />
   </a>
-  <a href="https://github.com/grid2109">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=grid2109&layout=compact&langs_count=8&theme=neon" />
+  <a href="https://github.com/grid2109/github-readme-stats">
+  <img width=400 height=168 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=grid2109&layout=donut&langs_count=5&theme=transparent" />
   </a>
 </div>
 
