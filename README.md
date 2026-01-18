@@ -8,6 +8,7 @@ Desenvolvedora Full stack em formação | Foco em frontend | Transformando ideia
 Sou desenvolvedora frontend responsável por criar interfaces intuitivas e experiências de usuário memoráveis. Com 7 meses de experiência profissional e estudando desenvolvimento web desde 2022, estou em constante evolução na construção de aplicações modernas e responsivas.
 Minha jornada começou com os fundamentos HTML, CSS e JavaScript evoluindo pro React e hoje trabalho com tecnologias como TypeScript, Next.js e Tailwind CSS. Acredito que cada linha de código é uma oportunidade de aprender e cada desafio é um degrau para o próximo nível.
 
+</br>
 <h3>💼 Experiência Profissional</h3>
 
 Em 2024, tive a oportunidade de atuar em uma startup no momento crucial do lançamento de sua plataforma de vendas de ingressos e eventos.
@@ -28,13 +29,15 @@ Em 2024, tive a oportunidade de atuar em uma startup no momento crucial do lanç
 
 🤝 Colaboração ativa com equipe de backend
 
-
+</br>
 <h3>🎯 Metodologias & Ferramentas</h3>
 
 Trabalho com metodologias ágeis e ferramentas de versionamento que garantem qualidade e organização:
+</br>
 Gestão: Jira, Scrum
 Versionamento: Git, Bitbucket
 
+</br>
 <h3>🛠️ Stacks</h3>
 <table>
   <tr>
@@ -60,9 +63,9 @@ Versionamento: Git, Bitbucket
     <td><b>🎯 Próximos Passos</b></td>
     <td>Testes Automatizados • CI/CD • Design Patterns</td>
   </tr>
-</table><br>
+</table>
 
-
+</br>
 
 <h3>🌱 Atualmente</h3>
 
@@ -74,6 +77,7 @@ Versionamento: Git, Bitbucket
 
 🤝 Aberta a colaborações e novos desafios
 
+</br>
 
 <h3>💭 Filosofia de Trabalho</h3>
 
@@ -89,14 +93,13 @@ Valorizo:
 
 🎯 Entrega de valor e foco no usuário final
 
-
-
-
-
+</br>
 <h3> 🛠 Tecnologias e Ferramentas</h3>
 <h4>💻 Front-end:</h4>
 
-<div style="display: flex">
+</br>
+
+
  <div style="display: inline_block">
   <img align="center" alt="grid2109-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="grid2109-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -108,18 +111,21 @@ Valorizo:
  <img align="center" alt="grid2109-Tailwind" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
 </div>
 
+</br>
+
 <div>
   <a href="https://github.com/grid2109/github-readme-stats">
     <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=grid2109&show_icons=true&theme=neon&include_all_commits" />
   </a>
+
   <a href="https://github.com/grid2109/github-readme-stats">
   <img width=400 height=168 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=grid2109&layout=donut&langs_count=5&theme=transparent" />
   </a>
 </div>
-</div>
 
 
-<br>
+
+</br>
 
 <h3 align="center">Connect With Me</h3>
 <p align="center">
