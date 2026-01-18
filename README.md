@@ -34,18 +34,32 @@ Trabalho com metodologias ágeis e ferramentas de versionamento que garantem qua
 Gestão: Jira, Scrum
 Versionamento: Git, Bitbucket
 
-🛠️ Stack Tecnológica
-
-const minhasSkills = {
-  frontend: {
-    linguagens: ['JavaScript', 'TypeScript'],
-    frameworks: ['React', 'Next.js'],
-    estilização: ['CSS3', 'Tailwind CSS'],
-    ferramentas: ['React Hook Form', 'Zod', 'Regex']
-  },
-  estudando: ['Fullstack Development', 'Performance', 'Acessibilidade'],
-  proximosPassos: ['Testes Automatizados', 'CI/CD', 'Design Patterns']
-}
+🛠️ Stacks
+<table>
+  <tr>
+    <td><b>💻 Linguagens</b></td>
+    <td>JavaScript • TypeScript</td>
+  </tr>
+  <tr>
+    <td><b>⚛️ Frameworks</b></td>
+    <td>React • Next.js</td>
+  </tr>
+  <tr>
+    <td><b>🎨 Estilização</b></td>
+    <td>CSS3 • Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><b>🔧 Ferramentas</b></td>
+    <td>React Hook Form • Zod • Regex</td>
+  </tr>
+  <tr><td><b>📚 Estudando</b></td>
+    <td>Fullstack Development • Performance • Acessibilidade</td>
+  </tr>
+  <tr>
+    <td><b>🎯 Próximos Passos</b></td>
+    <td>Testes Automatizados • CI/CD • Design Patterns</td>
+  </tr>
+</table>
 
 
 🌱 Atualmente
