@@ -21,16 +21,21 @@ Em 2024, tive a oportunidade de atuar em uma startup no momento crucial do lanç
 📱 Interfaces responsivas que funcionam em qualquer dispositivo
 
 🔌 Integrações de API para operações CRUD completas
+
 ✅ Validação de formulários com React Hook Form + Zod
+
 📊 Implementação de gráficos para visualização de dados
+
 🤝 Colaboração ativa com equipe de backend
 
 🎯 Metodologias & Ferramentas
+
 Trabalho com metodologias ágeis e ferramentas de versionamento que garantem qualidade e organização:
 Gestão: Jira, Scrum
 Versionamento: Git, Bitbucket
 
 🛠️ Stack Tecnológica
+
 const minhasSkills = {
   frontend: {
     linguagens: ['JavaScript', 'TypeScript'],
@@ -44,6 +49,7 @@ const minhasSkills = {
 
 
 🌱 Atualmente
+
 📚 Aprofundando conhecimentos em Desenvolvimento Fullstack
 💡 Construindo projetos reais compatíveis com o mercado
 🎯 Focando em performance, acessibilidade e boas práticas
