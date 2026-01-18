@@ -65,11 +65,12 @@ Versionamento: Git, Bitbucket
 
 
 <h3>🌱 Atualmente</h3>
-💪 Consolidando a base, estudando muito JS e conceitos do React
+
+✅️💪 Consolidando a base, estudando muito JS e conceitos do React
+
+✅️🎯 Focando em performance, acessibilidade e boas práticas
 
 💡 Construindo projetos reais compatíveis com o mercado
-
-🎯 Focando em performance, acessibilidade e boas práticas
 
 🤝 Aberta a colaborações e novos desafios
 
