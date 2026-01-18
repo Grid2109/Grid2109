@@ -1,22 +1,59 @@
-<h1>Olá, eu sou Ingrid Lira</h1>
+<h1>👋Olá, eu sou Ingrid Lira</h1>
 
-Desenvolvedora Full stack em formação | Foco em frontend | apaixonada por códigos, por interfaces interativas, por aprender sobre todo um sistema que serve inúmeros usuários de tecnologia.👋😊💕
+Desenvolvedora Full stack em formação | Foco em frontend | Transformando ideias em experiências web
+ 
 
-<h2>💫Sobre</h2>
-Atuo como Desenvolvedora Frontend com 7 meses de experiência profissional, trabalhando com tecnologias como React, TypeScript, Tailwind CSS e Next.js. Ainda no início da minha jornada, tenho me dedicado a aprender na prática, construindo soluções que equilibram funcionalidade e experiência do usuário.
+🚀 Sobre mim
+Sou desenvolvedora frontend responsável por criar interfaces intuitivas e experiências de usuário memoráveis. Com 7 meses de experiência profissional e estudando desenvolvimento web desde 2022, estou em constante evolução na construção de aplicações modernas e responsivas.
+Minha jornada começou com os fundamentos HTML, CSS e JavaScript evoluindo pro React e hoje trabalho com tecnologias como TypeScript, Next.js e Tailwind CSS. Acredito que cada linha de código é uma oportunidade de aprender e cada desafio é um degrau para o próximo nível.
 
-Nos meus projetos recentes, participei da migração de React para Next.js (com foco em SEO), implementei um mapa interativo para visualização de eventos e desenvolvi páginas responsivas. Também colaborei em integrações frontend-backend e utilizei React Hook Form + Zod para validação de dados, sempre sob orientação da equipe.
+💼 Experiência Profissional
+Em 2024, tive a oportunidade de atuar em uma startup no momento crucial do lançamento de sua plataforma de vendas de ingressos e eventos.
 
-Trabalhei em times que usam metodologias ágeis (Jira) e versionamento de código (Bitbucket), onde pude entender a importância do trabalho colaborativo e da organização. Reconheço que ainda tenho muito a aprimorar, mas encaro cada desafio como oportunidade para evoluir — seja em performance, acessibilidade ou boas práticas de código. 
+ Algumas das minhas contribuições:
+🔄 Migração React → Next.js para otimização de SEO
+🗺️ Mapas interativos para localização de eventos
+📱 Interfaces responsivas que funcionam em qualquer dispositivo
+🔌 Integrações de API para operações CRUD completas
+✅ Validação de formulários com React Hook Form + Zod
+📊 Implementação de gráficos para visualização de dados
+🤝 Colaboração ativa com equipe de backend
+
+🎯 Metodologias & Ferramentas
+Trabalho com metodologias ágeis e ferramentas de versionamento que garantem qualidade e organização:
+Gestão: Jira, Scrum
+Versionamento: Git, Bitbucket
+
+🛠️ Stack Tecnológica
+const minhasSkills = {
+  frontend: {
+    linguagens: ['JavaScript', 'TypeScript'],
+    frameworks: ['React', 'Next.js'],
+    estilização: ['CSS3', 'Tailwind CSS'],
+    ferramentas: ['React Hook Form', 'Zod', 'Regex']
+  },
+  estudando: ['Fullstack Development', 'Performance', 'Acessibilidade'],
+  proximosPassos: ['Testes Automatizados', 'CI/CD', 'Design Patterns']
+}
 
 
-🎯 Foco: Desenvolvedora fullstack💻
+🌱 Atualmente
+📚 Aprofundando conhecimentos em Desenvolvimento Fullstack
+💡 Construindo projetos reais compatíveis com o mercado
+🎯 Focando em performance, acessibilidade e boas práticas
+🤝 Aberta a colaborações e novos desafios
 
-<h2>🎓Formações</h2>
-🌱Estudei para desenvolvedora frontend na escola virtual de formação completa de programação 
-<a href="https://rodolfomori.com/devclub/" target="_blank" rel="noreferrer noopener">DevClub</a> em julho de 2022. 
+💭 Filosofia de Trabalho
+"Cada desafio é uma oportunidade de evolução. Reconheço que sempre há mais a aprender, e é exatamente isso que me motiva."
 
-🚀Atualmente, estudo para ser uma profissional completa que entenda tanto do front como do back de um sistema na comunidade <a href="https://www.fullstackclub.com.br/" target="_blank" rel="noreferrer noopener">Full Stack Club</a>.
+Valorizo:
+🤝 Trabalho colaborativo e comunicação clara
+📖 Aprendizado contínuo e compartilhamento de conhecimento
+✨ Qualidade de código e atenção aos detalhes
+🎯 Entrega de valor e foco no usuário final
+
+
+
 
 
 <h2> 🛠 Tecnologias e Ferramentas</h2>
