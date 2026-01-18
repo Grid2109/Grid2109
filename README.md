@@ -94,7 +94,7 @@ Valorizo:
 
 
 <h3> 🛠 Tecnologias e Ferramentas</h3>
-<h3>💻 Front-end:</h3>
+<h4>💻 Front-end:</h4>
 
 
 <div style="display: inline_block">
